@@ -2,6 +2,7 @@
 - Language Rust Python Bash
 - 📫 giteeajake@qq.com and Jami
 - PGP 9800 0D8A 9378 0E37 18E1  83C6 3E46 8738 59E6 2EF4
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!---
