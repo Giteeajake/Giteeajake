@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giteeajake
 - Language Rust Python Bash
-- 📫 $(echo "=02bj5yav9Gb0V3bA1Waq9VatVXb" | rev | base64 -d) and Matrix(mumi_jim@mozilla.org)
+- 📫 $(echo "=02bj5yav9Gb0V3bA1Waq9VatVXb" | rev | base64 -d) and Matrix(@mumi_jim@mozilla.org)
 - Even though I am now MTF, I still hope to be referred to as male.
 
 
